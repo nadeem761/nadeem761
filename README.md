@@ -1,22 +1,41 @@
 # 👋 Hi, I’m Nadeem Khan
 
-- 👀 I’m interested in Flutter development, UI/UX design, and backend development.
-- 🌱 I’m currently learning advanced Flutter techniques and exploring new UI/UX trends.
-- 💞️ I’m looking to collaborate on innovative Flutter projects and open-source contributions.
-- 📫 How to reach me: Email: nadeem.dev56@gmail.com
-- 😄 Pronouns: He/Him
-- ⚡ Fun fact: I love solving complex problems and turning ideas into reality through code.
+I'm a passionate developer focused on building polished, high-performance apps using **Flutter**. I blend strong **UI/UX design** principles with efficient **backend development**, creating seamless digital experiences from front to back.
+---
+## 👨‍💻 About Me
 
-## Skills
-- **Languages:** Dart, C++
-- **Frameworks:** Flutter, Laravel
-- **Tools:** Firebase, Git, Figma
-- **Other:** UI/UX Design
+- 👀 I’m interested in Flutter development, UI/UX design, and backend architecture.
+- 🌱 Currently deep-diving into advanced Flutter techniques and modern UI/UX trends.
+- 🤝 Open to collaborating on innovative Flutter apps and open-source projects.
+- 📫 Reach me at **nadeem.dev56@gmail.com**
+- 😄 Pronouns: **He/Him**
+- ⚡ Fun fact: I love turning abstract ideas into elegant, functional products.
 
-## Experience
-- **Years of Experience:** 4 years
-- **Current Company:** Dcodax
-<!---
-is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+
+### Languages
+- Dart, C++
+
+### Frameworks & Libraries
+- Flutter (mobile, web, desktop)
+- Laravel (PHP backend)
+
+### Tools & Platforms
+- Firebase (Auth, Firestore, Cloud Functions)
+- Git & GitHub
+- Figma (Prototyping, Design Systems)
+
+### Other
+- UI/UX Design
+- Clean Architecture
+- REST API Integration
+
+
+## 💼 Experience
+
+- **👨‍💻 Years of Experience:** 4+ years
+- **🏢 Currently at:** [Dcodax](https://dcodax.com) — building scalable digital products
+
+“Code is more than syntax — it's creativity, design, and empathy combined.”
+
+Thanks for stopping by! Let’s build something great 🚀
+
