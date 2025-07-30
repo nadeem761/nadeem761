@@ -1,16 +1,22 @@
-## Hi there 👋
+# 👋 Hi, I’m Nadeem Khan
 
-<!--
-**nadeem761/nadeem761** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- 👀 I’m interested in Flutter development, UI/UX design, and backend development.
+- 🌱 I’m currently learning advanced Flutter techniques and exploring new UI/UX trends.
+- 💞️ I’m looking to collaborate on innovative Flutter projects and open-source contributions.
+- 📫 How to reach me: Email: nadeem.dev56@gmail.com
+- 😄 Pronouns: He/Him
+- ⚡ Fun fact: I love solving complex problems and turning ideas into reality through code.
 
-Here are some ideas to get you started:
+## Skills
+- **Languages:** Dart, C++
+- **Frameworks:** Flutter, Laravel
+- **Tools:** Firebase, Git, Figma
+- **Other:** UI/UX Design
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Experience
+- **Years of Experience:** 4 years
+- **Current Company:** Dcodax
+<!---
+is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+You can click the Preview link to take a look at your changes.
+--->
